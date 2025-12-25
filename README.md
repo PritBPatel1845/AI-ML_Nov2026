@@ -4,7 +4,7 @@
 
 ## 👤 About Me
 * **Background:** B.Eng in Computer Engineering & PG Diploma in AI/ML (2022).
-* **Current Role:** Technical Support @ Apple (3 Years).
+* **Current Role:** Technical Support (3 Years).
 * **Goal:** To leverage my domain expertise in technical troubleshooting and combine it with ML engineering to build intelligent, automated support systems.
 
 ---
